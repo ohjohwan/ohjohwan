@@ -1,8 +1,12 @@
-## Hi there 👋
+## 반갑습니다!!👋
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-blue?logo=HTML5&logoColor=%23E34F26)
+![CSS](https://img.shields.io/badge/CSS-lavender?logo=css&logoColor=%23663399)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/TypeScript-lightgreen?logo=typescript&logoColor=%233178C6)
+![Next JS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 
 <!--
